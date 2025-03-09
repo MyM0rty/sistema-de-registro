@@ -6,3 +6,5 @@ Para ejecutar el sistema, debes poner:
 
 
 ```npm indtsll react```
+
+sistema de registro 2
